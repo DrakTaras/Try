@@ -1,0 +1,13 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "mongoose-custom-validators": "0.0.4",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "email-validator": "^2.0.4"
+  }
+}
